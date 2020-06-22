@@ -21,7 +21,15 @@ h4 {
     color: gray;
 }
 
+
 .link--cta {
     color: aquamarine;
     font-size: 16px;
+}
+
+
+footer p {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
 }
