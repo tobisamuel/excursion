@@ -9,3 +9,8 @@ header h1 {
     font-size: 50px;
     color: white;
 }
+
+header a {
+    color: aquamarine;
+    font-size: 16px;
+}
